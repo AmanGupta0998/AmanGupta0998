@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @AmanGupta0998
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello 👋, I’m Aman Gupta
 
-<!---
-AmanGupta0998/AmanGupta0998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Backend & Full-Stack Developer | Python • Django • REST APIs  
+🚀 Building scalable web apps, SaaS platforms & AI-powered automation systems
+
+🔭 Currently building: AI bots, WhatsApp automation & SaaS products  
+🌱 Learning: Docker, AWS & Production Deployments  
+
+---
+
+### 🛠 Tech Stack
+
+Backend:
+Python • Django • REST APIs • MySQL  
+
+Frontend:
+HTML • CSS • Bootstrap • JavaScript  
+
+Libraries & Tools:
+NumPy • Pandas • Matplotlib • Scikit-learn • Git • Docker (learning) • Twilio API • WhatsApp Business API • Supabase
+
+---
+
+### 🚀 Featured Projects
+🔹 AI Agents Suite – Voice & WhatsApp automation handling 100+ daily queries  
+🔹 Model Mela – SaaS app with authentication + Razorpay payments (50+ users)  
+🔹 Online Book Store – Full-stack e-commerce platform with responsive UI & optimized database queries  
+
+---
+
+### 📫 Connect with me
+📞 +91 9889824690  
+📧 amangupta30062005@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/aman-gupta-tech
